@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.pew.eos_dependencies">
+    <uses-sdk android:targetSdkVersion="34" />
+    
     <application
         android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
     </application>
