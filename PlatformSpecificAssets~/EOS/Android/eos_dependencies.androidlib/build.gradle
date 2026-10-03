@@ -13,10 +13,10 @@ android {
         }
     }
 
-    compileSdkVersion 34
+    compileSdkVersion 32
     buildToolsVersion '30.0.3'
     defaultConfig {
-        targetSdkVersion 34
+        targetSdkVersion 32
     }
 }
 dependencies {
